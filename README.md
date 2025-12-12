@@ -21,8 +21,7 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 
 * **Rank 1** in SIH 2024 (Smart India Hackathon) held at BIT Mesra .
 * **AIR 100** in SBI College Youth Ideathon at IIT Delhi .
-* **20,000+ Downloads** on my custom Gemini Client API library for Rust .
-* **CodeForces Rating:** 1800-1900 (Graph Problems specialist) .
+* **30,000+ Downloads** on my custom Gemini Client API library for Rust .
 
 ---
 
@@ -42,13 +41,6 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 > *RAG-based AI Assistant aimed at automating student queries.*
 * Reduced general query calls by **82-87%** with **95-97% accuracy** .
 * Architecture: Rust backend on AWS Lambda with DynamoDB .
-
----
-
-### ⚡ Stats
-
-![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suryansh-Dey&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-Dey&layout=compact&theme=tokyonight)
 
 ---
 
