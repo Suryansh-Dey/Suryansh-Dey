@@ -13,8 +13,8 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 
 * **Languages:** Rust, C++, Python, Lua, Node.js 
 * **Web Frameworks:** React.js, Next.js, Dioxus, React-Native 
-* **Cloud & DevOps:** AWS (Lambda, EC2, S3, DynamoDB), Docker, Linux, Git 
-* **Tools:** Neovim 
+* **Cloud & DevOps:** AWS (Lambda, EC2, S3, DynamoDB), Docker
+* **Tools:** Neovim, Arch Linux, Git
 
 ---
 
@@ -31,7 +31,7 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 **1. gemini-client-api (Rust)**
 > *A Rust library to use Google's Gemini API.*
 * Implemented builder patterns and stream of futures for response streaming .
-* Garnered **20,000+ recent downloads** and starred by the founder of Dioxus Labs .
+* Garnered **30,000+ recent downloads** and starred by the founder of Dioxus Labs .
 
 **2. Deep Learning Library (C/C++)**
 > *A library for deep neural networks built from scratch.*
