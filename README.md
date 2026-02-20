@@ -43,11 +43,3 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 > *RAG-based AI Assistant aimed at automating student queries.*
 * Reduced general query calls by **82-87%** with **95-97% accuracy** .
 * Architecture: Rust backend on AWS Lambda with DynamoDB .
-
----
-
-### 📫 Connect with Me
-
-* **LinkedIn:** [Suryansh Dey](https://www.linkedin.com/in/suryansh-dey)
-* **Email:** suryanshdey@gmail.com
-* **CodeForces:** [Suryansh_Dey](https://codeforces.com/profile/Suryansh_Dey)
