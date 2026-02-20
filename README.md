@@ -23,7 +23,7 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optim
 
 * **Rank 1** in SIH 2024 (Smart India Hackathon) held at BIT Mesra .
 * **AIR 100** in SBI College Youth Ideathon at IIT Delhi .
-* **30,000+ Downloads** on my custom Gemini Client API library for Rust .
+* **32,000+ Downloads** on my custom Gemini Client API library for Rust .
 
 ---
 
