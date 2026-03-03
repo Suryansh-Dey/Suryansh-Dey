@@ -1,12 +1,12 @@
 # Hi there, I'm Suryansh Dey! 👋
-[One of my masterpiece](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner.  
-[Another one](https://www.explorifytrips.com/travel-planner)
+[One of my masterpiece](https://www.explorifytrips.com/travel-planner) Click the chatbot at bottom right corner.  
+[Another one](https://chatbot.vinaiak.com/clients/ISM/site/)
 
 ### 🚀 Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
 
 I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for building high-performance systems and AI-driven applications. I specialize in **Rust**, **C++**, and **Cloud Architecture (AWS)**.
 
-Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on optimizing AI query handling systems.
+Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on building APIs and tools.
 
 ---
 
