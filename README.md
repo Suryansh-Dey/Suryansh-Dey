@@ -1,6 +1,6 @@
 # Hi there, I'm Suryansh Dey! 👋
-[One of my masterpiece](https://www.explorifytrips.com/travel-planner) Click the chatbot at bottom right corner.  
-[Another one](https://chatbot.vinaiak.com/clients/ISM/site/)
+[One of my masterpiece](https://www.explorifytrips.com/travel-planner)  
+[Another one](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner.  
 
 I am 3rd year B.Tech(CSE) student at Birla Institute of Technology, Mesra.
 ### 🚀 Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
