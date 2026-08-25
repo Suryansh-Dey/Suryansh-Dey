@@ -2,7 +2,7 @@
 [One of my masterpiece](https://www.explorifytrips.com/travel-planner)  
 [Another one](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner.  
 
-I am 3rd year B.Tech(CSE) student at Birla Institute of Technology, Mesra.
+I am 4th year B.Tech(CSE) student at Birla Institute of Technology, Mesra.
 ### 🚀 Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
 
 I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for building high-performance systems and AI-driven applications. I specialize in **Rust**, **C++**, and **Cloud Architecture (AWS)**.
