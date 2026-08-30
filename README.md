@@ -34,7 +34,7 @@ Currently, I serve as the **CTO of Explorify Trips Pvt. Ltd.** and work on build
 **1. gemini-client-api (Rust)**
 > *A Rust library to use Google's Gemini API.*
 * Implemented builder patterns and stream of futures for response streaming .
-* Garnered **32,000+ recent downloads** and starred by the founder of Dioxus Labs .
+* Garnered **34,000+ recent downloads** and starred by the founder of Dioxus Labs .
 
 **2. Deep Learning Library (C/C++)**
 > *A library for deep neural networks built from scratch.*
