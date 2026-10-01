@@ -20,10 +20,11 @@ I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for buildin
 
 ### 🏆 Key Achievements
 
+* **[Top 10](https://github.com/rust-lang/cargo/graphs/contributors?from=6\%2F27\%2F2026)** active contributor to the rust-lang/cargo repository.
 * **Rank 1** in SIH 2024 (Smart India Hackathon) held at BIT Mesra .
 * **AIR 100** in SBI College Youth Ideathon at IIT Delhi .
 * **34,000+ Downloads** on my custom Gemini Client API library for Rust .
-* **Open Source contributor** in wayshot and lua in kernel. Here is one of the merged PR in [wayshot](https://github.com/waycrate/wayshot/pull/280), [lunatik](https://github.com/luainkernel/lunatik/pull/466) and [rust-cargo](https://github.com/rust-lang/cargo/pull/17373)
+* **Open Source contributor** in wayshot and lua in kernel. Here is one of the merged PRs in [wayshot](https://github.com/waycrate/wayshot/pull/280), [lunatik](https://github.com/luainkernel/lunatik/pull/466).
 
 ---
 
