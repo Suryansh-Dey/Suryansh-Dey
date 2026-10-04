@@ -3,13 +3,13 @@
 [Another one](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner. Sorry codebase is private for security reasons.  
 
 I am 4th year B.Tech(CSE) student at Birla Institute of Technology, Mesra.
-### 🚀 Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
+### Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
 
 I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for building high-performance systems and AI-driven applications. I specialize in **Rust**, **C++**, and **Cloud Architecture (AWS)**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Languages:** Rust, C++, Python, Lua, Node.js 
 * **Web Frameworks:** React.js, Next.js, Dioxus, React-Native 
@@ -18,7 +18,7 @@ I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for buildin
 
 ---
 
-### 🏆 Key Achievements
+### Key Achievements
 
 * **[Top 10](https://github.com/rust-lang/cargo/graphs/contributors?from=6\%2F27\%2F2026)** active contributor to the rust-lang/cargo repository.
 * **Rank 1** in SIH 2024 (Smart India Hackathon) held at BIT Mesra .
@@ -28,7 +28,7 @@ I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for buildin
 
 ---
 
-### 🔭 Featured Projects
+### Featured Projects
 
 **1. gemini-client-api (Rust)**
 > *A Rust library to use Google's Gemini API.*
