@@ -44,3 +44,10 @@ I am a B.Tech student in **AI & ML** at **BIT Mesra** with a passion for buildin
 > *RAG-based AI Assistant aimed at automating student queries.*
 * Reduced general query calls by **82-87%** with **95-97% accuracy** .
 * Architecture: Rust backend on AWS Lambda with DynamoDB .
+
+**4. [BIT Academia](https://bitacademia-bitwebapps-projects.vercel.app) Maintainer**
+> Official academic site of the Institute
+* Led a team of 8 members to build a full-stack platform with Express.js, MongoDB, and React for managing faculty mentor
+allotment, placements, internships, and research records, assigning module ownership across the team.
+* Built an automated queuing system with cron jobs and email notifications to route pending approval requests to secondary
+preferences upon timeout. Deployed on an institutional Linux server handling 100+ requests daily.
