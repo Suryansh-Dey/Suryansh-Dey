@@ -1,6 +1,6 @@
 # Hi there, I'm Suryansh Dey! 👋
-[Another one](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner. Sorry codebase is private for security reasons.  
-[One of my masterpiece](https://www.explorifytrips.com/travel-planner) code: [backend](https://github.com/Explorify-market-place/explorify-travel-planner) and [frontend](https://github.com/Explorify-market-place/market-place-users)  
+[One of my masterpiece](https://chatbot.vinaiak.com/clients/ISM/site/) Click the chatbot at bottom right corner. Sorry codebase is private for security reasons.  
+[Another one](https://www.explorifytrips.com/travel-planner) code: [backend](https://github.com/Explorify-market-place/explorify-travel-planner) and [frontend](https://github.com/Explorify-market-place/market-place-users)  
 
 I am 4th year B.Tech(CSE) student at Birla Institute of Technology, Mesra.
 ### Rustacean | AI/ML Engineer | Full Stack Developer | Competitive programmer
